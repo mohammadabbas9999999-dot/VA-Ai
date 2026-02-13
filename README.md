@@ -1,4 +1,4 @@
-# MEGA PROJECT 1: JARVIS - VOICE-ACTIVATED VIRTUAL ASSISTANT
+# PROJECT 1: JARVIS - VOICE-ACTIVATED Ai VIRTUAL ASSISTANT
 . Voice Recognition
 
 • Utilizes the speech_recognition library to listen for and recognize voice commands.
